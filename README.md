@@ -16,7 +16,7 @@ Conmachi is intended to be built on any LTS version of Ubuntu. In development, i
 You can statically build the tool with the following commands:
 
 ~~~
-go get github/TKTK
+go get github.com/nccgroup/ConMachi
 go get ./...
 cd $GOPATH/bin
 
